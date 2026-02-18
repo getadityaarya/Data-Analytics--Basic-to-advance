@@ -1,4 +1,4 @@
-# Git & GitHub Notes 📘
+# Git & GitHub Notes 
 
 These notes are structured for **GitHub README / personal notes**, with **definition → syntax → example** format for each topic.
 
@@ -351,7 +351,7 @@ git reset --soft HEAD~1
 git reset --hard <commit-hash>
 ```
 
-⚠️ Hard reset deletes changes permanently.
+ **Hard reset deletes changes permanently.**
 
 ---
 
